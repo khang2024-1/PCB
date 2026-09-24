@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Actuators_Drivers") (type "KiCad") (uri "${KIPRJMOD}/Actuators_Drivers.pretty") (options "") (descr ""))
+)
